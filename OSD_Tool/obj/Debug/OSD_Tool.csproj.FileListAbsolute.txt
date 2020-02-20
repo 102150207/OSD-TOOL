@@ -1,0 +1,86 @@
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe.config
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.pdb
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csprojResolveAssemblyReference.cache
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Properties.Resources.resources
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.GenerateResource.cache
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CoreCompileInputs.cache
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.exe
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.pdb
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Splash.resources
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Home.resources
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.dll
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.pdb
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.xml
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CopyComplete
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Screens.AnnualLeave.resources
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\y.pham\source\repos\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe.config
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.pdb
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.dll
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.pdb
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.xml
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Home.resources
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Splash.resources
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Properties.Resources.resources
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.GenerateResource.cache
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.exe
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.pdb
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\EPPlus.dll
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\EPPlus.xml
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Screens.AnnualLeave.resources
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe.config
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.pdb
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\EPPlus.dll
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.dll
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\EPPlus.xml
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.pdb
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.xml
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csprojResolveAssemblyReference.cache
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Screens.AnnualLeave.resources
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Home.resources
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Splash.resources
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Properties.Resources.resources
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.GenerateResource.cache
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CoreCompileInputs.cache
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CopyComplete
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.exe
+C:\Projects\Orient Software\Tools\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.pdb
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe.config
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.exe
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\OSD_Tool.pdb
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\EPPlus.dll
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.dll
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\EPPlus.xml
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.pdb
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.xml
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csprojResolveAssemblyReference.cache
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Screens.AnnualLeave.resources
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Home.resources
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Splash.resources
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Properties.Resources.resources
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.GenerateResource.cache
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CoreCompileInputs.cache
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CopyComplete
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.exe
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.pdb
+C:\Users\ngoclong.nguyen\Desktop\work\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Screens.WorkingHours.resources
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csprojAssemblyReference.cache
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.Screens.WorkingHours.resources
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CoreCompileInputs.cache
+D:\Projects\osd_tool\OSD_Tool\OSD_Tool\obj\Debug\OSD_Tool.csproj.CopyComplete
